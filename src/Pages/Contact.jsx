@@ -31,7 +31,7 @@ const ContactForm = () => {
                 <FaPhoneAlt className="text-[#E35A1E] text-2xl w-8" />
                 <div>
                   <p className="text-[#E35A1E] font-bold text-lg">
-                    <a href="tel:+918380804409">+91 83 8080 4409</a>
+                    <a href="tel:+918380804409">+91 7363928225</a>
                   </p>
                   <p className="text-gray-400">
                     Call us: Mon - Sun 9:00 - 19:00
@@ -48,8 +48,8 @@ const ContactForm = () => {
                     Exam Mentor | Preparation
                   </p>
                   <p className="text-gray-400">
-                    Sainik Coloni, Plot No.-2062, Katangi, Gondia, <br />
-                    Maharashtra - 441601
+                    Rangamati,Ramthenga,Coochbehar <br />
+                    West Bengal - 735211
                   </p>
                   </div>
                 
@@ -125,7 +125,7 @@ const ContactForm = () => {
       {/* Map */}
       <div className="bg-black flex flex-col items-center justify-center px-4 py-10">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3708.562124743895!2d80.24007587504941!3d21.641979980165313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a2baeb0d6f1954b%3A0x19eeb24cfbd6a0b!2sGondia%20-%20Balaghat%20Rd!5e0!3m2!1sen!2sin!4v1736103783540!5m2!1sen!2sin"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3571.746442358667!2d89.21123307520813!3d26.463900976917582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e3a7acaee07a9d%3A0x85caa94c36cbd4cd!2zUmFtdGhhbmdhIEhpZ2ggU2Nob29sIOCmsOCmvuCmruCmoOCnh-CmmeCnjeCml-CmviDgpongpprgp43gppog4Kas4Ka_4Kam4KeN4Kav4Ka-4Kay4Kef!5e0!3m2!1sen!2sin!4v1740049767519!5m2!1sen!2sin"
           className="w-full h-[40vh] lg:h-[60vh] rounded-xl"
           allowFullScreen=""
           loading="lazy"

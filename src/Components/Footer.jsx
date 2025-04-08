@@ -133,7 +133,7 @@ const Footer = () => {
                   <a href="/contact">24/7 Help Center</a>
                 </li>
                 <li>support@exammentor.com</li>
-                <li>Phone: +91 98765 43210</li>
+                <li>Phone: +91 7363928225</li>
                 <li>Live Chat Available</li>
                 <li className="mt-4">
                   {/* <a href="/privacy-policy" className="hover:text-blue-400">
@@ -154,7 +154,7 @@ const Footer = () => {
               <h3 className="text-lg font-bold text-blue-400 mb-4 flex items-center mr-1">
                 <BookOpen size={20} className="mr-2" /> Find Us
               </h3>
-              <p>It's Our Offline Center,You Can Find this</p>
+              <p>It's Our Offline Center,You Can Find Us Here</p>
               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3571.746442358667!2d89.21123307520813!3d26.463900976917582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e3a7acaee07a9d%3A0x85caa94c36cbd4cd!2zUmFtdGhhbmdhIEhpZ2ggU2Nob29sIOCmsOCmvuCmruCmoOCnh-CmmeCnjeCml-CmviDgpongpprgp43gppog4Kas4Ka_4Kam4KeN4Kav4Ka-4Kay4Kef!5e0!3m2!1sen!2sin!4v1740049767519!5m2!1sen!2sin"
               className="rounded-xl"
               width={230}
